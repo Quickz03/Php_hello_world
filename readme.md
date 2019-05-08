@@ -1,0 +1,1 @@
+This was my first attempt using PHP. I was able to accomplish a working hello world as well as connecting to a database and showing data from a table on the page from that database.
